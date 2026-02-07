@@ -18,10 +18,10 @@ And am currently or planning to developing skills in:
 * Can develop and handle multi-language projects [[1]](https://github.com/Medatur76/eihsclubs)
 * Web development and hosting [[1]](https://github.com/Medatur76/eihsclubs)
 * Robots experience (VEX)
-* Knowledge on the creation of AI from scratch [[1]](https://github.com/Medatur76/GameAI)
-* Custom syntax parsing [[1]](https://github.com/Medatur76/EasyPeasy)
+* Knowledge on the creation of AI from scratch [[2]](https://github.com/Medatur76/GameAI)
+* Custom syntax parsing [[3]](https://github.com/Medatur76/EasyPeasy)
 #### **Projects:**
-[eihsclubs](https://eihsclubs.com) ([repo](https://github.com/Medatur76/eihsclubs))
+[EIHS Clubs](https://eihsclubs.com) [[1]](https://github.com/Medatur76/eihsclubs)
 ### **Contact:**
 Email: medatur76@gmail.com
 <!--
