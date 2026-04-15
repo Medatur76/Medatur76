@@ -12,6 +12,7 @@ I am currently proficient in:
 
 And am currently or planning to develop skills in:
 * Assembly (x64 and arm64)
+* GLSL
 * Rust
 * Ruby
 #### 💪 **Skils:**
